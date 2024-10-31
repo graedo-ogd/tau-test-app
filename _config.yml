@@ -1,0 +1,9 @@
+title: "Tauri Test App"      # Titel der Seite
+description: "Herunterladen der neuesten Versionen meiner App für verschiedene Plattformen."
+baseurl: "/"  # Unterverzeichnis, falls die Seite nicht im Root liegt
+url: "https://graedo-ogd.github.io"  # Basis-URL deiner GitHub Pages
+theme: minima              # Einfaches, minimalistisches Standard-Theme
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag         # SEO-Plugin für bessere Sichtbarkeit
+  - jekyll-sitemap         # Sitemap-Plugin für die Seite
