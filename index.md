@@ -15,4 +15,4 @@ Hier kannst du die neuesten Versionen unserer App für verschiedene Plattformen 
 
 ## Frühere Versionen
 
-- [Version 1.0.0](./_releases/1.0.0)
+- [Version 0.0.0](./_releases/0.0.0)
